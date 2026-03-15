@@ -38,25 +38,3 @@ Passionate about coding, problem solving, and building impactful software.
 </table>
 
 ---
-
-## 🧠 Problem Solving
-
-<p align="center">
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/aakashraj7?theme=dark&font=baloo)
-
-</p>
-
----
-
-## 📫 Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/aakashraj7" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  </a>
-  
-  <a href="https://leetcode.com/aakashraj7" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" height="40"/>
-  </a>
-</p>
