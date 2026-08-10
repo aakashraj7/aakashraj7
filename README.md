@@ -17,16 +17,6 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🎓 **Education:** Freshman at **Chennai Institute of Technology (CIT Chennai)**, building a strong Computer Science foundation.
-- 💻 **Passionate About:** Full-Stack Web Development, Real-Time Applications & Algorithmic Problem Solving.
-- 🛠️ **Current Focus:** Building scalable web applications using **React, TypeScript, Node.js, and Socket.IO**.
-- 🤝 **Collaboration:** Eager to contribute to **Open-Source projects**, teamwork repositories, and innovative software solutions.
-- 📍 **Location:** Chennai, Tamil Nadu, India.
-
----
-
 ### 🤝 Git Collaboration & Contribution Dashboard
 
 <div align="center">
@@ -60,6 +50,16 @@
 
 ---
 
+### 👨‍💻 About Me
+
+- 🎓 **Education:** Freshman at **Chennai Institute of Technology (CIT Chennai)**, building a strong Computer Science foundation.
+- 💻 **Passionate About:** Full-Stack Web Development, Real-Time Applications & Algorithmic Problem Solving.
+- 🛠️ **Current Focus:** Building scalable web applications using **React, TypeScript, Node.js, and Socket.IO**.
+- 🤝 **Collaboration:** Eager to contribute to **Open-Source projects**, teamwork repositories, and innovative software solutions.
+- 📍 **Location:** Chennai, Tamil Nadu, India.
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 <div align="center">
@@ -85,17 +85,6 @@
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
-
----
-
-### 🚀 Featured Projects & Collaboration Highlights
-
-| Project | Description | Tech Stack | Repository |
-| :--- | :--- | :--- | :---: |
-| 🏥 **Queue Curve** | Real-time clinic queue management system with live updates and wait estimates. | `React` `Node.js` `MongoDB` `Socket.IO` | [View Code](https://github.com/aakashraj7/queue-curve) |
-| 🔐 **Credify** | Effective certification and pass management platform. | `TypeScript` `React` `Node.js` | [View Code](https://github.com/aakashraj7/credify) |
-| 📅 **Smart Campus Scheduler** | Automated scheduling system for campus courses and event management. | `Java` `Algorithms` | [View Code](https://github.com/aakashraj7/smart-campus-scheduler) |
-| 🧮 **DAA Solutions** | Data Structures & Design & Analysis of Algorithms implementations. | `Python` `Algorithms` | [View Code](https://github.com/aakashraj7/design-and-analysis-of-algorithms) |
 
 ---
 
