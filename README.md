@@ -1,10 +1,10 @@
 <div align="center">
 
   # Hi 👋 I'm Aakashraj S
-  ### ⚡ Freshman @ CIT Chennai | Code. Debug. Repeat.
+  ### ⚡ Sophomore @ CIT Chennai | Code. Debug. Repeat.
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vcenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Open+Source+%26+Git+Collaborator+%F0%9F%A4%9D;Building+Impactful+Software+%F0%9F%9A%80;Code.+Debug.+Repeat.+%F0%9F%94%81" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vcenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Git+Collaborator+%26+Problem+Solver+%F0%9F%A4%9D;Building+Impactful+Software+%F0%9F%9A%80;Code.+Debug.+Repeat.+%F0%9F%94%81" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -15,33 +15,35 @@
 
 </div>
 
----
+<br/>
 
-### 🤝 Git Collaboration & Contribution Dashboard
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=100&section=header&text=%F0%9F%A4%9D%20Git%20Collaboration%20%26%20Contribution%20Dashboard&fontSize=20&fontColor=7aa2f7&animation=fadeIn" width="100%" />
+</div>
 
 <div align="center">
   <table width="100%">
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/aakashraj7">
-          <img src="https://github-readme-stats-fast.vercel.app/api?username=aakashraj7&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started" alt="GitHub & Collaboration Stats" width="100%" />
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=aakashraj7&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started&hide_border=true&border_radius=10" alt="GitHub & Collaboration Stats" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/aakashraj7">
-          <img src="https://streak-stats.demolab.com?user=aakashraj7&theme=tokyonight" alt="GitHub Contribution Streak" width="100%" />
+          <img src="https://streak-stats.demolab.com?user=aakashraj7&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Contribution Streak" width="100%" />
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
         <a href="https://github.com/aakashraj7">
-          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aakashraj7&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" width="100%" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aakashraj7&layout=compact&theme=tokyonight&hide=html,css&hide_border=true&border_radius=10" alt="Top Languages" width="100%" />
         </a>
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/aakashraj7">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashraj7&theme=tokyo-night" alt="Activity Graph" width="100%" />
+          <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashraj7&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" width="100%" />
         </a>
       </td>
     </tr>
@@ -52,10 +54,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Education:** Freshman at **Chennai Institute of Technology (CIT Chennai)**, building a strong Computer Science foundation.
+- 🎓 **Education:** Sophomore at **Chennai Institute of Technology (CIT Chennai)**, building a strong Computer Science foundation.
 - 💻 **Passionate About:** Full-Stack Web Development, Real-Time Applications & Algorithmic Problem Solving.
 - 🛠️ **Current Focus:** Building scalable web applications using **React, TypeScript, Node.js, and Socket.IO**.
-- 🤝 **Collaboration:** Eager to contribute to **Open-Source projects**, teamwork repositories, and innovative software solutions.
+- 🤝 **Collaboration:** Eager to contribute to teamwork repositories, impactful projects, and innovative software solutions.
 - 📍 **Location:** Chennai, Tamil Nadu, India.
 
 ---
@@ -96,6 +98,6 @@
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aakashraj7)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aakashrajs1206@gmail.com)
 
-  *open for collaborations, open-source contributions, and technical discussions!*
+  *open for collaborations, project partnerships, and technical discussions!*
 
 </div>
