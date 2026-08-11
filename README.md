@@ -29,7 +29,7 @@
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/aakashraj7">
-          <img src="https://streak-stats.demolab.com?user=aakashraj7&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Contribution Streak" width="100%" />
+          <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aakashraj7&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Contribution Streak" width="100%" />
         </a>
       </td>
     </tr>
