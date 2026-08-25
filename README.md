@@ -41,7 +41,7 @@
       </td>
       <td width="50%" align="center">
         <a href="https://github.com/aakashraj7">
-          <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashraj7&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+          <img src="https://github-readme-activity-graph-eight.vercel.app/graph?username=aakashraj7&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph" width="100%" />
         </a>
       </td>
     </tr>
