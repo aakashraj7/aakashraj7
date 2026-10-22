@@ -88,6 +88,24 @@
 
 ---
 
+## Contribution Heatmap
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/aakashraj7" alt="Aakashraj's Contribution Heatmap" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aakashraj7/aakashraj7/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aakashraj7/aakashraj7/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/aakashraj7/aakashraj7/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
 ## Connect with Me
 
 <div align="center">
